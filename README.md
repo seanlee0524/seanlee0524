@@ -10,7 +10,7 @@ function HomePage() {
       }}
     >
       <h1 style={{ fontFamily: 'fantasy', color: '#4b9be1' }}>
-        seshseanbook's website
+        {"Seseanbook's website"}
       </h1>
       <h2
         style={{
@@ -23,7 +23,6 @@ function HomePage() {
       </h2>
       <button
         style={{
-          fontFamily: 'monospace',
           padding: '1rem',
           fontSize: '2rem',
           background: 'blue',
@@ -35,7 +34,6 @@ function HomePage() {
       </button>
       <button
         style={{
-          fontFamily: 'monospace',
           padding: '1rem',
           fontSize: '2rem',
           background: 'orange',
